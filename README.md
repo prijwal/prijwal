@@ -1,7 +1,7 @@
-### Hi there, I'm Prijwal 👋
+s### Hi there, I'm Prijwal 👋
 
 ## About me:
-Highly adaptable and proficient software engineer with 3 years of experience in diverse technology stacks, including J2EE, Struts, Spring, Stapler, Spring Boot, Java, C++, Node.js, React, Docker, Jira, and Git. Adept at designing and building solutions across various domains and platforms, demonstrating exceptional technical versatility and a passion for continuous learning. Currently, I am diving deep into Microservices & the Spring framework while getting hands-on with React & Node.js.
+A software engineer with 3 years of experience in technologies like Java (Spring, Quarkus), C++, Node.js, React, Docker, and Kubernetes. Skilled in designing and building scalable, high-performance systems using modern microservice architectures and cloud-native tools.
 
 ### What I'm Currently Up To:
 
