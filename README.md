@@ -35,6 +35,6 @@ Highly adaptable and proficient software engineer with 3 years of experience in 
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/prijwal-kushwah-ba9431178/
+[linkedin]: https://www.linkedin.com/in/prijwal/
 [twitter]: https://twitter.com/PrijwalR
-[instagram]: https://instagram.com/ayush_rajavat
+[instagram]: https://instagram.com/prijwal_rajavat
