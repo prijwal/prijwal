@@ -1,4 +1,4 @@
-s### Hi there, I'm Prijwal 👋
+### Hi there, I'm Prijwal 👋
 
 ## About me:
 A software engineer with 3 years of experience in technologies like Java (Spring, Quarkus), C++, Node.js, React, Docker, and Kubernetes. Skilled in designing and building scalable, high-performance systems using modern microservice architectures and cloud-native tools.
