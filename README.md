@@ -12,7 +12,7 @@ Highly adaptable and proficient software engineer with 3 years of experience in 
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/prijwal/" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
 
